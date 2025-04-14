@@ -2,7 +2,7 @@ package main
 
 import (
 	"bufio"
-	"cisdi-technical-assessment/helper"
+	"cisdi-technical-assessment/CLI-App/helper"
 	"fmt"
 	"os"
 	"strconv"
